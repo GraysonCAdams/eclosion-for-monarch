@@ -51,7 +51,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "frimousse": "^0.3.0",
-    "lucide-react": "^0.563.0",
+    "lucide-react": "^0.577.0",
     "motion": "^12.29.2",
     "qrcode.react": "^4.2.0",
     "react": "^19.2.0",
