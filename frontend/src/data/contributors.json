@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-15T17:34:59.936Z",
+  "generatedAt": "2026-08-02T01:25:33.887Z",
   "features": {
     "recurring": {
       "featureId": "recurring",
@@ -17,7 +17,7 @@
           "commits": 2
         }
       ],
-      "lastUpdated": "2026-01-15T17:34:59.936Z"
+      "lastUpdated": "2026-08-02T01:25:33.887Z"
     },
     "notes": {
       "featureId": "notes",
@@ -35,7 +35,40 @@
           "commits": 10
         }
       ],
-      "lastUpdated": "2026-01-15T17:35:00.722Z"
+      "lastUpdated": "2026-08-02T01:25:34.429Z"
+    },
+    "stashes": {
+      "featureId": "stashes",
+      "ideator": {
+        "username": "GraysonCAdams",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51373669?v=4",
+        "profileUrl": "https://github.com/GraysonCAdams",
+        "commits": 0
+      },
+      "contributors": [],
+      "lastUpdated": "2026-08-02T01:25:34.546Z"
+    },
+    "refunds": {
+      "featureId": "refunds",
+      "ideator": {
+        "username": "GraysonCAdams",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51373669?v=4",
+        "profileUrl": "https://github.com/GraysonCAdams",
+        "commits": 0
+      },
+      "contributors": [],
+      "lastUpdated": "2026-08-02T01:25:34.742Z"
+    },
+    "ifttt": {
+      "featureId": "ifttt",
+      "ideator": {
+        "username": "GraysonCAdams",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51373669?v=4",
+        "profileUrl": "https://github.com/GraysonCAdams",
+        "commits": 0
+      },
+      "contributors": [],
+      "lastUpdated": "2026-08-02T01:25:34.936Z"
     },
     "linked-goals": {
       "featureId": "linked-goals",
@@ -46,7 +79,7 @@
         "commits": 0
       },
       "contributors": [],
-      "lastUpdated": "2026-01-15T17:35:00.898Z"
+      "lastUpdated": "2026-08-02T01:25:35.124Z"
     },
     "leaderboard": {
       "featureId": "leaderboard",
@@ -57,13 +90,13 @@
         "commits": 0
       },
       "contributors": [],
-      "lastUpdated": "2026-01-15T17:35:01.029Z"
+      "lastUpdated": "2026-08-02T01:25:35.204Z"
     },
     "inbox-sync": {
       "featureId": "inbox-sync",
       "ideator": null,
       "contributors": [],
-      "lastUpdated": "2026-01-15T17:35:01.164Z"
+      "lastUpdated": "2026-08-02T01:25:35.267Z"
     },
     "shared-budget": {
       "featureId": "shared-budget",
@@ -74,7 +107,7 @@
         "commits": 0
       },
       "contributors": [],
-      "lastUpdated": "2026-01-15T17:35:04.526Z"
+      "lastUpdated": "2026-08-02T01:25:38.415Z"
     },
     "allowance": {
       "featureId": "allowance",
@@ -85,7 +118,7 @@
         "commits": 0
       },
       "contributors": [],
-      "lastUpdated": "2026-01-15T17:35:04.660Z"
+      "lastUpdated": "2026-08-02T01:25:38.491Z"
     }
   }
 }
